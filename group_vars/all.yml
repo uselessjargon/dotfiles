@@ -18,15 +18,15 @@ default_roles:
   - lsd
   - lua
   - nala
-  - neofetch
-  - neovim
-  - npm
-  - nvm
+  # - neofetch
+  # - neovim
+  # - npm
+  # - nvm
   - obsidian
   - pwsh
   - python
   - ruby
-  - rust
+  # - rust
   - ssh
   - sshfs
   - terraform
